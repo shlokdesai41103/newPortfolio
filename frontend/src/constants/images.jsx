@@ -40,7 +40,10 @@ import spotify from '../assets/spotify.png';
 import Shlok from '../assets/favicon.png';
 import profilePic from '../assets/Profile without BG.png';
 import avatar from '../assets/myAvatar.png';
-import whale from '../assets/odokawa-removebg-preview.png'
+import whale from '../assets/odokawa-removebg-preview.png';
+import shlokProfile from '../assets/shlok profile.png';
+import shlokSuited from '../assets/Shlok_Suited-removebg-preview.png'
+import shlokSuited2 from '../assets/Shlok_Suited_2.png'
 
 export default {
   email,
@@ -81,4 +84,7 @@ export default {
   avatar,
   java,
   whale,
+  shlokProfile,
+  shlokSuited,
+  shlokSuited2,
 };
